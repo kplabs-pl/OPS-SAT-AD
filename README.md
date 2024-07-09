@@ -17,6 +17,6 @@ This package provides a novel collection of satellite telemetry for anomaly dete
 
 [^1] DATA: OPSSAT-AD - anomaly detection dataset for satellite telemetry [Zenodo:12588359](https://doi.org/10.5281/zenodo.12588359).
 
-[^2] JOURNAL PAPER: Ruszczak, B., Kotowski. K., Evans, D., Nalepa, J.: The OPS-SAT benchmark for detecting anomalies in satellite telemetry, 2024, [preprint arXiv:5555.6666](https://arxiv.org/abs/5555.6666).
+[^2] JOURNAL PAPER: Ruszczak, B., Kotowski. K., Evans, D., Nalepa, J.: The OPS-SAT benchmark for detecting anomalies in satellite telemetry, 2024, [preprint arXiv:2407.04730](https://arxiv.org/abs/2407.04730).
 
 [^3] CONFERENCE PAPER: Ruszczak, B., Kotowski. K., Andrzejewski, J., et al.: (2023). Machine Learning Detects Anomalies in OPS-SAT Telemetry. Computational Science – ICCS 2023. LNCS, vol 14073. Springer, Cham.  [DOI:10.1007/978-3-031-35995-8_21](https://doi.org/10.1007/978-3-031-35995-8_21).
